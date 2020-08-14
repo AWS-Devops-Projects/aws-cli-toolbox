@@ -11,4 +11,4 @@ Other tools bundled:
 * `git`
 * `jq`
 * `python3`
-;
+
